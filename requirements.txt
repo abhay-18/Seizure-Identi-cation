@@ -1,0 +1,9 @@
+tensorflow==2.15.0
+matplotlib
+numpy
+scikit-learn
+keras
+tensorflow_addons
+seaborn
+openpyxl
+dill
